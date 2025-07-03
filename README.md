@@ -93,3 +93,8 @@ See the included Jupyter notebooks for complete code and analysis.
 | Fractional with Cutoff | $16,704.99 | $9,112.80 | 1.830 | 96.40% | $16,139.21 | $17,270.76 |
 | Fractional + 50% Multi | $16,577.66 | $10,548.87 | 1.570 | 95.50% | $15,922.73 | $17,232.60 |
 | Cutoff + 50% Multi | $15,681.99 | $9,090.36 | 1.730 | 96.00% | $15,117.61 | $16,246.37 |
+
+### Expected Value and Sharpe Ratio by Scenario
+
+![EV By Strategy](graphs/SnailStock_EVByStrategy.png)
+*Figure: Expected Value by Strategy*
